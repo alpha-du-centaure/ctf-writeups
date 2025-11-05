@@ -1,6 +1,6 @@
 # 🧠 Writeup — Duck Robots (V1t CTF 2025)
 
-**Catégorie :** Web  
+**Catégorie :** Duck   
 **Points :** 10  
 **Auteur :** alpha-du-centaure  
 **Date :** Nov 2025  
@@ -26,4 +26,5 @@ J’y suis allé directement pour voir son contenu.
 Le fichier `robots.txt` contient le flag caché.  
 
 ## Flag obtenu
+
 **v1t{ducks_are_g0v_r0b0ts}**  
